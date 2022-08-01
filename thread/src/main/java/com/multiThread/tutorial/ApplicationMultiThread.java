@@ -1,4 +1,4 @@
-package com.multiThread;
+package com.multiThread.tutorial;
 
 public class ApplicationMultiThread {
     public static void main(String[] args) throws InterruptedException {

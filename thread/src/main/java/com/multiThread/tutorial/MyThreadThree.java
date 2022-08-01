@@ -1,4 +1,4 @@
-package com.multiThread;
+package com.multiThread.tutorial;
 
 public class MyThreadThree extends Thread {
     @Override
