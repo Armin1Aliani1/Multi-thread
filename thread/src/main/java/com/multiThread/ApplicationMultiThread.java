@@ -46,8 +46,8 @@ public class ApplicationMultiThread {
 
         System.out.println();
 
-        Car car = new Car();
-        car.startEngine();
+        CarForTest carForTest = new CarForTest();
+        carForTest.startEngine();
 
     }
 }
